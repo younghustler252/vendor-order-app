@@ -8,7 +8,7 @@ const vendorConfig = {
     business: {
         name: "Parfait by Chioma",
         tagline: "Fresh, creamy, irresistible",
-        phone: "08080061178", // WhatsApp number
+        phone: "2348080061178", // WhatsApp number
         address: "Lekki Phase 1, Lagos",
         socials: [
             { name: "Instagram", url: "https://instagram.com/parfaitbychioma" },
